@@ -296,58 +296,77 @@ plt.show()
 
 # OUPUT
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/4cd847d5-ada2-4a9b-ad6d-7d4e2f347fbe)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/ac3cb49f-c230-42ad-8d01-f83078f9f568)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/f1780901-82b8-46f7-8cde-a7cd1d04a6e8)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/93746ed2-4371-4a1f-a8af-9338b2c3b4e4)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/0c101e2f-74d1-4f90-b8af-82329227a381)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/d650ef8e-3e6a-42c1-b5cf-44bca72c64ef)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/c35ca458-9138-4d42-80e3-922a1813c656)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/46a8a516-ca98-4330-b88f-6c4c799a797a)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/9a453ddc-3c6f-4732-8517-5bfc90a6154a)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/ca89050a-da13-4071-a594-0f4a814006b9)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/ed1065fe-68cc-4281-9476-498078f54340)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/d9498228-27be-4b3e-a248-b578d5e434a7)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/350fcb90-61ac-4407-af8d-16d584fd5432)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/dd5c592f-4a05-4fd6-a420-30fda775cf3a)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/2268f5b0-2c6d-4397-8055-a615e8836de2)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/d028cf0b-e024-4a7b-ad41-78f856a5a971)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/7e1d1b66-e8b5-47fd-9647-5778910e4232)
 
 
+
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/91bd4a53-e630-4a3e-82cc-7c31478333d5)
+
 
 
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/f722644e-d171-4885-ba93-ba0190a11c27)
