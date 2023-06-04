@@ -372,7 +372,7 @@ plt.show()
 ![image](https://github.com/nivetharajaa/Ex-07-Feature-Selection/assets/120543388/f722644e-d171-4885-ba93-ba0190a11c27)
 
 
-##RESULT
+# RESULT
 
 The various feature selection techniques are performed on a dataset and saved the data to a file.
 
